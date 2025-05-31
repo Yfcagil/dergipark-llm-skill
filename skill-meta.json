@@ -1,0 +1,8 @@
+{
+  "name": "DergiPark Skill",
+  "description": "DergiPark üzerinden makale arayan, PDF indirip özetleyen custom skill.",
+  "entry_point": "dergipark_skill.py",
+  "run_method": "run_skill",
+  "version": "1.0.0",
+  "author": "Yfcagil"
+}
